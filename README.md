@@ -1,2 +1,2 @@
-BCG Data Science Virtual Experience Program
+BCG Data Science Virtual Experience Program, 
 Predicting Consumer Churn
